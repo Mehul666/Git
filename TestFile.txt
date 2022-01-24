@@ -2,3 +2,6 @@ this is a file 1
 now adding it in commit 2
 
 E
+
+C
+
